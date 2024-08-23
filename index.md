@@ -1,23 +1,18 @@
 # Kevin Xu's First CS193 Homework
-\
-
+<br />
+<br />
 
 ## my favorite things about cs193:
 - item 1
 - item 2
 - item 3
 
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\\
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 ## Welcome to GitHub Pages
 
