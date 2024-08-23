@@ -1,6 +1,6 @@
 # Kevin Xu's First CS193 Homework
 \
-\
+
 
 ## my favorite things about cs193:
 - item 1
